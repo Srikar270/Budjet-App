@@ -30,13 +30,6 @@ It allows users to:
 
 ---
 
-## 🖼️ Preview
-
-![Budget App Preview](https://github.com/Srikar270/Budget-App-UI-UX/blob/main/preview.png)  
-*(You can add a screenshot of your Figma design here after uploading it to GitHub.)*
-
----
-
 ## 🔗 Figma Design Link
 
 [👉 View the complete design on Figma](https://www.figma.com/design/3cWozOvTcXPVeBjDJxE7sQ/Untitled?node-id=0-1&t=oDhbTC3dTHz37Jbp-1)
